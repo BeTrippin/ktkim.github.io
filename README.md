@@ -1,7 +1,7 @@
 # ktkim.github.io
 My portfolio 
 
-# Data Scientist
+# Data Analyst/Scientist
 
 ### Education
 Mechanical Engineering, PhD
